@@ -1,6 +1,6 @@
 # Ask @luiscarlospando anything!
 
-A repository to ask [@mijo](https://twitter.com/mijo) anything. This is a quick little ask-me-anything type of repository. It is forked from [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
+A repository to ask [@luiscarlospando](https://luiscarlospando.net) anything. This is a quick little ask-me-anything type of repository. It is forked from [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
 ### Ask a question
 
@@ -15,7 +15,7 @@ ask a question on any old issue too, even if you didn't create it.
 
 ### Read some questions
 
-Check out the [Closed Issues](https://github.com/mijo/ama/issues?q=is%3Aissue+is%3Aclosed)
+Check out the [Closed Issues](https://github.com/luiscarlospando/ama/issues?q=is%3Aissue+is%3Aclosed)
 filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.

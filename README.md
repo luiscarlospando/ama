@@ -1,6 +1,6 @@
-# luiscarlospando/ama
+# Ask @luiscarlospando anything!
 
-A repository to ask [@mijo](https://twitter.com/mijo) anything.
+A repository to ask [@mijo](https://twitter.com/mijo) anything. This is a quick little ask-me-anything type of repository. It is forked from [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
 ### Ask a question
 
